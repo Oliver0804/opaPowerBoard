@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Gitlab")(type "KiCad")(uri "/Users/oliver/KiCad/kicad-footprints")(options "")(descr ""))
+  (lib (name "CAP")(type "KiCad")(uri "${KIPRJMOD}/lib/NFM21PC105B1A3D")(options "")(descr ""))
+)

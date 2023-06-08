@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="112.2mm" height="82.2mm" viewBox="0 0 112.2 82.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Fillet" transform="translate(56.100000,41.100000) scale(1,-1)">
+<path id="Fillet_f0000"  d="M 51.99999999999999 40.0 L -52.00000000000001 40.0 L -52.00000000000001 40.0 L 51.99999999999999 40.0 L 51.99999999999999 40.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<circle cx="-48.00000000000001" cy="-33.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc"/>
+<path id="Fillet_f0002"  d="M -52.00000000000001 40.0 A 3 3 0 0 1 -55 37L -55.00000000000001 37.0 A 3 3 0 0 0 -52 40L -52.00000000000001 40.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Fillet_f0003"  d="M 51.99999999999999 40.0 A 3 3 0 0 0 55 37L 54.99999999999999 37.0 A 3 3 0 0 1 52 40L 51.99999999999999 40.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<circle cx="-48.00000000000001" cy="-33.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc"/>
+<path id="Fillet_f0005"  d="M -55.00000000000001 37.0 L -55.00000000000001 -37.0 L -55.00000000000001 -37.0 L -55.00000000000001 37.0 L -55.00000000000001 37.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Fillet_f0006"  d="M 54.99999999999999 -37.0 L 54.99999999999999 37.0 L 54.99999999999999 37.0 L 54.99999999999999 -37.0 L 54.99999999999999 -37.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Fillet_f0007"  d="M -52.00000000000001 -40.0 A 3 3 0 0 0 -55 -37L -55.00000000000001 -37.0 A 3 3 0 0 1 -52 -40L -52.00000000000001 -40.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Fillet_f0008"  d="M 54.99999999999999 -37.0 A 3 3 0 0 0 52 -40L 51.99999999999999 -40.0 A 3 3 0 0 1 55 -37L 54.99999999999999 -37.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Fillet_f0009"  d="M -52.00000000000001 -40.0 L 51.99999999999999 -40.0 L 51.99999999999999 -40.0 L -52.00000000000001 -40.0 L -52.00000000000001 -40.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<circle cx="-48.00000000000001" cy="-33.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc"/>
+<circle cx="47.99999999999999" cy="-33.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc"/>
+<circle cx="47.99999999999999" cy="33.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc"/>
+<circle cx="-48.00000000000001" cy="33.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccccc"/>
+<title>b'Fillet'</title>
+</g>
+</svg>
